@@ -13,13 +13,6 @@
     overflow: hidden;
 }
 
-app-navbar {
-    display: block;
-    width: 250px;
-    flex-shrink: 0;
-    height: 100vh;
-}
-
 .main-content {
     flex: 1;
     background-color: #f8fafc;
